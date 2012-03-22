@@ -1,0 +1,14 @@
+Project To Do's
+
+animate background
+	get pictures
+	
+create nav bar
+create logo 
+create content
+create thumbnail
+steal video
+
+(think of interaction techniques)
+
+get content links. 
