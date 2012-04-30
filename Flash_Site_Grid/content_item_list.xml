@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	
+	<config
+		enable_fullscreen="true"
+		css_file="content_style.css"
+		tween_duration="0.5"
+		drag_speed="2.8"	
+		
+		item_width="300"
+		item_height="150"
+		item_corner_radius="0"
+		item_x_gap="10"
+		item_y_gap="10"
+		item_default_bgcolor="#666666"
+		item_default_padding="15"
+		item_complete_fillup="true"
+				
+		content_width="540"
+		content_height="360"
+		content_padding="20"
+		content_default_bgcolor="#FFFFFF"
+		
+		close_button="true"
+		previous_button="true"
+		next_button="true"		
+	>
+	</config>
+	
+	<item>
+		<description bgcolor="#0066CC"><![CDATA[<p class="white_text"><span class="title_extra">01</span><span class="title_large"> Home </span><br /><br /><span class="desc_small">Tiny welcome square :)</span></p>]]></description>
+		<content><![CDATA[<span class="title">Welcome to our homepage!</span>
+			<p align="justify">This home use the windows concept at <a href="http://www.flashmo.com" target="_parent">flashmo.com</a>
+			<span class="highlight">The Project</span> - The primary goal for this project is to build a beautiful flash project site that has a blog-­esque inspiration and a Tumblr feel by combining flash elements with our individual interest in a way meant to capture attention for possibly whoever stumbles across it. The secondary idea beyond this project</p>
+			<span class="subtitle">Primary Objective</span>
+			<p align="justify">The short term goal of this project is to have a repository of interest stockpiled for us. This will be an information portal for those interested in art, photography, and just wasting time.</p>
+			<span class="subtitle">Second Objective</span>
+			<p>The long term goal of this project is to create a lasting impact that will promote our marketability and paint our “company” in a positive light: allowing employers to see what our company is capable, and hire us for it. Our site seeks to showcase new technologies, concepts, urban and anything we find to be of interest.</p>]]>
+			</content>
+	</item>
+	
+	<item>
+		<description bgcolor="#115566"><![CDATA[<p class="white_text" align="right"><span class="title_large"> About Us </span>   <span class="title_extra">02</span><br /><br /><span class="desc_small">Two IS majors entertaining an idea</span></p>]]></description>
+		<content><![CDATA[<span class="title">CMU IS Jr. Yr majors in 70-637</span>
+			<p align="justify">We are toying around with this following a tumblr style of things. Mainly the expression of ideas through images.
+			<span class="highlight">Emmanuel Agbanyo aka Eman</span>
+			<span class="note">Well..., <a href="https://www.facebook.com/emnanah?sk=info">My facebook</a>, just don't spam my wall.</span>
+			
+			<span class="highlight">Derin Akintilo aka Derin</span>
+			<span class="note">See..., <a href="https://www.facebook.com/Muo91/info" target="_parent">My Facebook</a>, just don't spam my wall.</span>
+			</p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="#AA6600"><![CDATA[<p class="white_text" align="right"><span class="title_large"> Contact Us </span>   <span class="title_extra">03</span><br /><br /><span class="desc_small">Derin and Eman</span></p>]]></description>
+		<content><![CDATA[<span class="title">If you want to say hi...</span>
+			<p align="justify">Derin and Eman
+			<span class="highlight">Already gave you info (Pay Attention)</span>
+			<span class="note">Look in our "about us" page. Eventually in V 2.0 we will stick in a php form for contacting us.</p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="#228844"><![CDATA[<p class="white_text" align="right"><span class="title_large"> Site Vision </span>   <span class="title_extra">04</span><br /><br /><span class="desc_small">Not tumblr :/ </span></p>]]></description>
+		<content><![CDATA[<span class="title">Our project mindset</span>
+			<p align="justify">The current perception we need to overcome is trying to make the site too “web 2.0” and overly generic. Though these sites look simplistic and great, we feel that they lack some personality. The site viewer will want to be impressed by current and emerging technologies.</span>
+			<span class="note">We want our visitor to come away thinking they want to return to our site to see the next cool concept we stumble on, the next cool movie we suggest, and generally the next cool thing we find and decide it needs a place to showcase itself on our project page. They will have seen something that can inspire conversation. </span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large"></span><span class="desc_small">...On to movies</span></p>]]></description>
+		<content><![CDATA[<span class="title"></span>
+			<p align="justify">Nothing to see here, Move along.</span>
+			<span class="note">Not even this</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<img src="content/movies/mov_rl_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the into movie page.</p>]]></description>
+		<content><![CDATA[<span class="title">Movie Introduction</span>
+			<p align="justify">Looking for a movie series to watch all together? Well this is the idea. Instead of getting movies separately. Maybe you want to watch the Paranormal Activity Series, or the Marvel movies for upcoming Avengers? Click away.</span>
+			<span class="note">The ratings are taken from imdb and rotten tomato</span></p>]]></content>
+	</item>
+		
+<!--Paranormal Activity 2-->
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<img src="content/movies/pa1_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>Paranormal Activity 1.</p>]]></description>
+		<content><![CDATA[<span class="title">Paranormal Activity 1 (2010)</span>
+			<p align="justify">
+			IMDB: After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence. 
+			<br />RT: A haunted house makes no secret of the fact it's not pleased with its new tenants in this independent tale of supernatural horror. Katie (Katie Featherson) and Micah (Micah Sloat) are a twentysomething couple who've just moved into a new home in San Diego, CA. Katie has an interest in the paranormal and believes that malevolent spirits have been following her since childhood, though Micah is not so easily convinced. However, after several nights of loud noises and strange happenings, Micah starts to agree with Katie that some sort of ghost may have followed them to the new home. After a paranormal researcher tells the couple he can't help them, Micah decides to take control of the situation and sets up a battery of video cameras so that if a spirit manifests itself, he can capture its behavior on tape. Once the surveillance cameras are in place, Katie and Micah bring in a Ouija board in an effort to talk to the spirits, a move that deeply offends the ghosts. Paranormal Activity was the first feature film from writer and director Oren Peli. ~ Mark Deming, Rovi
+			
+			<span class="highlight"><a href="http://www.imdb.com/title/tt1179904/" target="_parent">IMDB: 6.5</a>, <a href="http://www.rottentomatoes.com/m/paranormal_activity/" target="_parent">Rotten Tomato: 82%</a></span>
+			
+			<span class="note">Eman: I rate this a 7.0, One of the few I have watched 4 times an enjoyed each time.</span>
+			</p>]]>
+		</content>
+	</item>
+	
+	<!--Paranormal Activity 2-->
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<img src="content/movies/pa2_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>Paranormal Activity 2.</p>]]></description>
+		<content><![CDATA[<span class="title">Paranormal Activity 2 (2010)</span>	
+			<p align="justify">
+			IMDB: After experiencing what they think are a series of "break-ins", a family sets up security cameras around their home, only to realize that the events unfolding before them are more sinister than they seem.
+			<br />RT: The sequel to the low-budget blockbuster Paranormal Activity takes place a few months before the events of the first film. Katie (Katie Featherston), the much put-upon leading lady in the original, has a sister living in an upscale Los Angeles suburb named Kristi (Sprague Grayden). Kristi has a new baby son, Hunter; a likable lug of a husband named Daniel (Brian Boland), who owns several fast-food joints; a teenage stepdaughter from her hubby's first marriage, Ali (Molly Ephraim); and a large, friendly dog. As the family gets used to the new arrival, strange noises are heard late at night and when they come home from an outing, they discover the house has been trashed, even though none of their valuables have been stolen. Daniel responds by installing a security system and a network of surveillance cameras, though that doesn't stop the noises or the Latino housekeeper's insistence that spirits lurk in the home. When Katie and her boyfriend, Micah (Micah Sloat), stop by for a visit, they discuss the strange goings-on with Kristi; the women of the house believe supernatural forces are at work, while the men find that notion ridiculous. That doesn't last long, as the spirits get noisier and angrier, especially when Ali begins doing some research on the subject, and before long the safety of the household is being threatened on several fronts, possibly due to some dirty dealings in the family's distant past. ~ Perry Seibert, Rovi
+			
+			<span class="highlight"><a href="http://www.imdb.com/title/tt1536044/" target="_parent">IMDB: 5.8</a>, <a href="http://www.rottentomatoes.com/m/paranormal_activity_2/" target="_parent">Rotten Tomato: 59%</a></span>
+			
+			<span class="note">Eman: I rate this at a 5.0 It confused me so I only watched it once. Some good parts though.</span>
+			</p>]]>
+		</content>
+	</item>
+	
+	<!--Paranormal Activity 3-->
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<img src="content/movies/pa3_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>Paranormal Activity 3.</p>]]></description>
+		<content><![CDATA[<span class="title">Paranormal Activity 3 (2011)</span>
+			<p align="justify">
+			IMDB: In 1988, young sisters Katie and Kristi befriend an invisible entity who resides in their home.
+			<br />RT: The Paranormal Activity franchise continues with this third outing from Paramount Pictures. Oren Peli and Jason Blum return to produce the highly secretive feature, with Catfish's directing duo of Henry Joost and Ariel Schulman taking on the helming duties. ~ Jeremy Wheeler, Rovi
+			
+			<span class="highlight"><a href="http://www.imdb.com/title/tt1778304/" target="_parent">IMDB: 6.1</a>, <a href="http://www.rottentomatoes.com/m/paranormal_activity_3/" target="_parent">Rotten Tomato: 54%</a></span>
+			
+			<span class="note">Eman: I rate this at a 6.0 I would rewatch it, some good parts</span>
+			</p>]]>
+		</content>
+	</item>
+	
+	<!--Iron Man 1-->
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<img src="content/movies/im1_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>Iron Man Movie Logo For the net.</p>]]></description>
+		<content><![CDATA[<span class="title">Iron Man (2008)</span>
+			<p align="justify">
+			IMDB: When wealthy industrialist Tony Stark is forced to build an armored suit after a life-threatening incident, he ultimately decides to use its technology to fight against evil.
+			<br />RT: From Marvel Studios and Paramount Pictures comes Iron Man, an action-packed take on the tale of wealthy philanthropist Tony Stark (Robert Downey Jr.), who develops an invulnerable robotic suit to fight the throes of evil. In addition to being filthy rich, billionaire industrialist Tony Stark is also a genius inventor. When Stark is kidnapped and forced to build a diabolical weapon, he instead uses his intelligence and ingenuity to construct an indestructible suit of armor and escape his captors. Once free, Stark discovers a deadly conspiracy that could destabilize the entire globe, and dons his powerful new suit on a mission to stop the villains and save the world. Gwyneth Paltrow co-stars as his secretary, Virginia "Pepper" Potts, while Terrence Howard fills the role of Jim "Rhodey" Rhodes, one of Stark's colleagues, whose military background leads him to help in the formation of the suit. Jon Favreau directs, with Marvel movie veterans Avi Arad and Kevin Feige producing. ~ Jeremy Wheeler, Rovi
+			
+			<span class="highlight"><a href="http://www.imdb.com/title/tt0371746/" target="_parent">IMDB: 7.9</a>, <a href="http://www.rottentomatoes.com/m/iron_man/" target="_parent">Rotten Tomato: 94%</a></span>
+			
+			<span class="note">Eman: This movie is insanely addictive</span>
+			</p>]]>
+		</content>
+	</item>
+	
+	<!--Iron Man 2-->
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<img src="content/movies/im2_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>Iron Man 2 Movie Logo For the net.</p>]]></description>
+		<content><![CDATA[<span class="title">Iron Man 2 (2010)</span>
+			<p align="justify">
+			IMDB: Because of his superhero alter ego, Tony Stark must contend with deadly issues involving the government, his own friends and new enemies.
+			<br />RT: As Tony Stark (Robert Downey Jr.) owns up to being Iron Man before the world press, Anton Vanko lies dying in Russia. Years ago, Anton worked with Tony's father to create a new source of energy. But greed got the best of Anton, and now as he slips away, his son, Ivan (Mickey Rourke), vows to make Tony pay for the sins of his father. Meanwhile, Tony fends off efforts from smarmy Senator Stern (Garry Shandling) and military weapons expert Justin Hammer (Sam Rockwell) to get him to divulge the secrets of his powerful Iron Man suit. The powers that be are concerned that Tony's technology may fall into the wrong hands -- fears that are soon confirmed when the cocky billionaire entrepreneur is confronted in front of the entire world by Ivan, who has built his own weapon using stolen Stark blueprints. Later, as Lt. Rhodes (Don Cheadle) wrestles with the decision to personally deliver Tony's suit to the military, Ivan finds an unlikely ally in the quest to destroy Iron Man; Stark Industries legal consultant Natalie Rushman (Scarlett Johansson) reveals her connection to Nick Fury (Samuel L. Jackson); and Pepper Potts (Gwyneth Paltrow) takes on some new responsibilities. ~ Jason Buchanan, Rovi
+			
+			<span class="highlight"><a href="http://www.imdb.com/title/tt0371746/" target="_parent">IMDB: 7.0</a>, <a href="http://www.rottentomatoes.com/m/iron_man/" target="_parent">Rotten Tomato: 74%</a></span>
+			
+			<span class="note">Eman: This movie just as action packed as the first</span>
+			</p>]]>
+		</content>
+	</item>
+	
+	<!--The Incredible Hulk-->
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<img src="content/movies/ih1_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>The Incredible Hulk Movie Logo.</p>]]></description>
+		<content><![CDATA[<span class="title">The Incredible Hulk (2008)</span>
+			<p align="justify">
+			IMDB: Dr. Bruce Banner, thanks to a gamma ray experiment gone wrong, transforms into a giant green-skinned hulk whenever his pulse rate gets too high. Meanwhile, a soldier uses the same technology to become an evil version of the original.
+			<br />RT: Mild-mannered scientist Bruce Banner has been traveling the globe in search of the antidote that will allow him to break free from his primal alter ego, but both the warmongers who long to exploit him for their own gain and a horrific creature known as The Abomination are determined to stop him from achieving his noble goal in Transporter 2 director Louis Leterrier's take on the classic Marvel Comics superhero tale. For years, Bruce (Edward Norton) has been living in the shadows, pursued by the military and haunted by the rage within. But traveling the world in secrecy isn't easy, and as hard as he tries Bruce can't get Betty Ross (Liv Tyler) off his mind. The daughter of Bruce's nemesis Gen. Thaddeus "Thunderbolt" Ross (William Hurt), Betty represents everything that is beautiful in the world to a man who lives his life on the run. Eventually, Bruce returns to civilization and faces the wrath of The Abomination. While the Hulk may be a formidable force of nature, The Abomination is decidedly more powerful, and determined to destroy Bruce Banner. Created when KGB agent Emil Blonsky (Tim Roth) exposed himself to a higher dose of the same radiation that transformed Bruce into The Hulk, The Abomination is unable to change back into human form and holds Bruce accountable for his frightful condition. With time fast running out for both Bruce and The Hulk, New York City is about to become the ultimate urban battle zone as two of the most powerful creatures ever to walk the earth clash in a massive, no-holds-barred fight to the finish. ~ Jason Buchanan, Rovi
+			
+			<span class="highlight"><a href="http://www.imdb.com/title/tt0800080/" target="_parent">IMDB: 7.0</a>, <a href="http://www.rottentomatoes.com/m/the_incredible_hulk/" target="_parent">Rotten Tomato: 6%</a></span>
+			
+			<span class="note">Eman: This movie just as action packed as the first</span>
+			</p>]]>
+		</content>
+	</item>
+	
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<p class="white_text" align="right"><span class="title_large">Thor (2011)</span><br /><br /><span class="desc_small">IMDB: X.X, Rotten Tomato: XX%</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<p class="white_text" align="right"><span class="title_large">Captian America (2011)</span><br /><br /><span class="desc_small">IMDB: X.X, Rotten Tomato: XX%</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="#262626" padding="0"><![CDATA[<p class="white_text" align="right"><span class="title_large">The Avengers (2012)</span><br /><br /><span class="desc_small">IMDB: X.X, Rotten Tomato: XX%</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large"></span><span class="desc_small">...On to images</span></p>]]></description>
+		<content><![CDATA[<span class="title"></span>
+			<p align="justify">Nothing to see here, Move along.</span>
+			<span class="note">Not even this</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">Images Intro</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	
+	<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">I1</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+		<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">I2</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	
+	<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">I3</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	
+	<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">I4</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	
+	<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">I5</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+
+	<item>
+		<description bgcolor="#262626"><![CDATA[<p class="white_text" align="right"><span class="title_large"></span><span class="desc_small">...On to tech</span></p>]]></description>
+		<content><![CDATA[<span class="title"></span>
+			<p align="justify">Nothing to see here, Move along.</span>
+			<span class="note">Not even this</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">Tech Intro</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">T1</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">T2</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">T3</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">T4</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	<item>
+		<description bgcolor="262626"><![CDATA[<p class="white_text" align="right"><span class="title_large">T5</span>   <span class="title_extra">00</span><br /><br /><span class="desc_small">Sed hendrerit, sem sed auctor pellentesque, leo ligula bibendum mauris.</span></p>]]></description>
+		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
+			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
+			<span class="highlight">Integer quam leo</span>
+			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+	</item>
+	
+	
+	
+</items>
