@@ -303,19 +303,19 @@
 	</item>
 	<!--Tech Page 4-->
 	<item>
-		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/tec_rl_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
-		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
-			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
-			<span class="highlight">Integer quam leo</span>
-			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/ip_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
+		<content><![CDATA[<span class="title">Apple Ipad 3</span>
+			<p align="justify">It's been less than two years since the iPad first landed, but Apple is ready to make the only tablet worth buying even better. Headlining the list of new features on the iPad 3 ($500-$830) is the drool-worthy Retina display, which densely packs in enough pixels that the human eye is unable to distinguish individual pixels when held at a reading distance — you know, like that iPhone 4 in your pocket. The new iPad and that crazy screen is powered by a high performance A5X chip with quad-core graphics (which is still is smart enough to deliver 10 hour battery life). There's also a slick 5 megapixel iSight camera with 1080p HD video recording capability. And for the first time, you can get built-in support for AT&T's and Verizon's 4G LTE networks. Apple also today introduced the iPhoto app, along with major updates to iMovie and GarageBand, completing its suite of iLife apps for iOS. Like always, the latest iPad is available in black or white. It comes in 16GB, 32GB, and 64GB capacities. It will be available on March 16th.
+			<span class="highlight">Image from: Uncrate</span>
+			<span class="note"> Image credit: <a href="http://www.apple.com/ipad/" target="_parent"> Apple </a></span></p>]]></content>
 	</item>
 	<!--Tech Page 5-->
 	<item>
-		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/tec_rl_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
-		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
-			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
-			<span class="highlight">Integer quam leo</span>
-			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/sg_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
+		<content><![CDATA[<span class="title">02 Samsung Galaxy Beam </span>
+			<p align="justify">We've seen projectors built into point-and-shoot cameras, but since those are quickly being replaced by smartphones, it was inevitable we'd see a projector pop up in one of those next. And so we have, with the Samsung Galaxy Beam ($TBA). Although its specs are relatively pedestrian — a 1 GHz dual-core processor, 4-inch 480x800 display, Android 2.3, 8GB of memory, and a 5 megapixel camera — it's the 15 lumen projector built into the top that steals the show, letting you share photos and videos on a projected screen up to 50-inches wide. Try doing that with your iPhone.
+			<span class="highlight">Image from: Uncrate</span>
+			<span class="note">Image credit: <a href="http://www.samsung.com/us/mobile/cell-phones" target="_parent">Samsung </a></span></p>]]></content>
 	</item>
 	
 	
