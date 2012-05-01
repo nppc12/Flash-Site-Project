@@ -31,7 +31,7 @@
 	
 	<!--Welcome Home Page-->
 	<item>
-		<description bgcolor="#0066CC"><![CDATA[<p class="white_text"><span class="title_extra">01</span><span class="title_large"> Home </span><br /><br /><span class="desc_small">Tiny welcome square :)</span></p>]]></description>
+		<description bgcolor="#0066CC"><![CDATA[<p class="white_text"><span class="title_large"> Home </span> <span class="title_extra">01</span><br /><br /><span class="desc_small">Tiny welcome square :)</span></p>]]></description>
 		<content><![CDATA[<span class="title">Welcome to our homepage!</span>
 			<p align="justify">This home use the windows concept at <a href="http://www.flashmo.com" target="_parent">flashmo.com</a>
 			<span class="highlight">The Project</span> - The primary goal for this project is to build a beautiful flash project site that has a blog-­esque inspiration and a Tumblr feel by combining flash elements with our individual interest in a way meant to capture attention for possibly whoever stumbles across it. The secondary idea beyond this project</p>
