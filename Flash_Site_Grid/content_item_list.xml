@@ -278,27 +278,28 @@
 	</item>
 	<!--Tech Page 1-->
 	<item>
-		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/tec_rl_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
-		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
-			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
-			<span class="highlight">Integer quam leo</span>
-			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/sb_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
+		<content><![CDATA[<span class="title"> Sensu: A true painting experience on your iPad</span>
+			<p align="justify">Sensu is two very useful tools in one. A brush and a stylus for capacitive devices like the iPad and iPhone. The rubber stylus is exposed when the brush is closed. This stylus is great for sketching and writing or as a general navigation tool. Grasp Sensu near the nib section and pull it out of the protective cap. You will reveal the capacitive bristles of the artist brush. Insert the rubber stylus into the cap and the cap becomes a handle for your brush.
+			<span class="highlight">Image from: Uncrate </span>
+			<span class="note">Image credit: <a href="http://www.sensubrush.com/" target="_parent">Sensubrush</a></span></p>]]></content>
 	</item>
 	<!--Tech Page 2-->
 	<item>
-		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/tec_rl_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
-		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
-			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
-			<span class="highlight">Integer quam leo</span>
-			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/lh_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
+		<content><![CDATA[<span class="title"> Logitech Harmony® Link </span>
+			<p align="justify">Logitech Harmony Link is a small device that connects to your home Wi-Fi® network. It turns signals from the Harmony Link app into infrared commands that can control your TV, set-top boxes, music systems and many other home entertainment devices. It even has an IR mini blaster that allows it to send signals through closed cabinet doors
+			<span class="highlight">Image from: Uncrate </span>
+			<span class="note">Image credit: <a href="http://www.logitech.com/en-us/1225/8439" target="_parent">Logitech</a></span></p>]]></content>
 	</item>
 	<!--Tech Page 3-->
 	<item>
-		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/tec_rl_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
-		<content><![CDATA[<span class="title">02 Aliquam semper blandit</span>
-			<p align="justify">Phasellus vehicula ipsum id felis porta nec rutrum arcu egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque venenatis interdum pellentesque.
-			<span class="highlight">Integer quam leo</span>
-			<span class="note">Fusce libero ante, <a href="http://www.flashmo.com" target="_parent">lobortis vel mollis dapibus</a>, pulvinar faucibus leo. Mauris tempus, tellus in sagittis interdum, mi leo blandit lacus, sit amet vehicula eros tortor eget est. Mauris et nisi odio.</span></p>]]></content>
+		<description bgcolor="262626" padding="0"><![CDATA[<img src="content/techs/at_300x150.jpg" width="300" height="150" vspace="0" hspace="0" /><p>This is the intro tech page.</p>]]></description>
+		<content><![CDATA[<span class="title">AMG V12 Turntable</span>
+			<p align="justify">Your vinyl has never sounded looked so good. The AMG V12 Turntable ($15,000) is the first turntable from Analog Manufaktur Germany, featuring a CNC machined 25mm aluminum plinth, a 16mm axle bearing, a CNC machined aluminum platter with a weighted rim, a Lorenzi 2 pulse, low-speed brushless motor, 33.3, 45, and 78 speeds, a belt drive mechanism, a twelve inch tonearm, and devastatingly handsome looks.
+				
+			<span class="highlight">Image from: Uncrate </span>
+			<span class="note">Image credit: <a href="http://www.amg-turntables.com/" target="_parent"> AMG Viela Turntable</a>.</span></p>]]></content>
 	</item>
 	<!--Tech Page 4-->
 	<item>
